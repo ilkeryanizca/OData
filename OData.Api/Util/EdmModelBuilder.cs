@@ -1,7 +1,8 @@
 using Microsoft.OData.Edm;
 using Microsoft.OData.ModelBuilder;
+using OData.Api.Model;
 
-namespace OData.Api
+namespace OData.Api.Util
 {
     public static class EdmModelBuilder
     {

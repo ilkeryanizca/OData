@@ -2,8 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Query;
 using Microsoft.AspNetCore.OData.Routing.Controllers;
 using OData.Api.Constants;
+using OData.Api.Model;
 
-namespace OData.Api.Controllers
+namespace OData.Api.Controller
 {
     [ApiController]
     [Route("odata/weatherforecast")]
