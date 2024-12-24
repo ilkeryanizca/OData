@@ -60,7 +60,6 @@ Supported OData Features 🔧
 - $orderby: Sorts the data.
 - $select: Selects specific fields.
 - $count: Returns the number of data.
-- $expand: Expands the associated data.
 
 
 
